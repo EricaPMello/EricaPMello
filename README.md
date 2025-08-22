@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou a Erica Mello! 👋</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação, aspirante a engenheir de dados e 
-  apaixonad por transformar desafios em oportunidades.
+  Estudante de Sistemas de Informação, aspirante a engenheira de dados e 
+  apaixonada por transformar desafios em oportunidades.
   <br><br>
   👩‍💻 Em busca da minha primeira oportunidade em tempo integral como Dev Júnior.
 </p>
