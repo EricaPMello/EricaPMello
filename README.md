@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Erica Mello! 👋</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação, aspirante a engenheira de dados e 
+  Estudante de Sistemas de Informação, aspirante a engenheira e 
   apaixonada por transformar desafios em oportunidades.
   <br><br>
   👩‍💻 Em busca da minha primeira oportunidade em tempo integral como Dev Júnior.
@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 
-[cite_start]Sou uma eterna aprendiz, no último semestre do curso de **Sistemas de Informação** pela Universidade Nove de Julho[cite: 1], em busca da minha primeira grande aventura no mundo da tecnologia. Minha jornada é uma mistura de paixões e experiências únicas:
+Sou uma eterna aprendiz, no último semestre do curso de **Sistemas de Informação** pela Universidade Nove de Julho, em busca da minha primeira grande aventura no mundo da tecnologia. Minha jornada é uma mistura de paixões e experiências únicas:
 
 * **🎓 Transição de Carreira:** Antes de mergulhar de cabeça em TI, trabalhei por 12 anos como vendedora, o que me ensinou a importância de **entender as pessoas** e a ter um **foco inabalável no cliente**. Tive experiências com produção em fábrica e locução de lojas.
 * **🍜 Cozinheira de Coração:** A cozinha é o meu refúgio e hobby. Tive 10 anos de experiência com culinária trivial, confeitaria e rotisserie. Cozinhar me ensinou sobre **precisão**, **processos** e a arte de **criar algo incrível do zero**.
@@ -25,15 +25,15 @@
 
 Minhas maiores paixões hoje são os **dados e análises**, mas estou sempre me desafiando a aprender mais.
 
-[cite_start]**Itaú Unibanco (Estagiária Command Center - Squad IULOAD)** [cite: 2, 4]
-* [cite_start]Desenvolvi minhas habilidades em análises de dados e sistemas ágeis[cite: 3].
-* [cite_start]Atuei na migração de produto com a criação de novos containers em **Docker** e fiz atualizações e manutenções no **GitHub**[cite: 3, 10].
-* [cite_start]Construí dashboards em **QuickSight** para automação e redução de processos manuais, e atuei na análise e reporte de análises da operação distribuída[cite: 3, 7, 8].
-* [cite_start]Documentei dashboards e reports[cite: 3].
+**Itaú Unibanco (Estagiária Command Center - Squad IULOAD)**
+* Desenvolvi minhas habilidades em análises de dados e sistemas ágeis.
+* Atuei na migração de produto com a criação de novos containers em **Docker** e fiz atualizações e manutenções no **GitHub**.
+* Construí dashboards em **QuickSight** para automação e redução de processos manuais, e atuei na análise e reporte de análises da operação distribuída.
+* Documentei dashboards e reports.
 
-[cite_start]**Bayer (Estagiária Crop Science)** [cite: 4]
-* [cite_start]Auxiliei na análise de dados de sementes e condições de solo para prever recomendações de práticas de plantio[cite: 11].
-* [cite_start]Auxiliei na implantação e manutenção de um sistema **Agile** no time[cite: 12].
+**Bayer (Estagiária Crop Science)**
+* Auxiliei na análise de dados de sementes e condições de solo para prever recomendações de práticas de plantio.
+* Auxiliei na implantação e manutenção de um sistema **Agile** no time.
 * Participei de um Hackathon com uso de **Copilot**.
 
 **Projetos Pessoais**
@@ -44,19 +44,19 @@ Minhas maiores paixões hoje são os **dados e análises**, mas estou sempre me 
 
 ### 💻 Habilidades Técnicas
 
-* [cite_start]**Linguagens & Ferramentas:** Python [cite: 6][cite_start], SQL [cite: 6][cite_start], HTML + CSS [cite: 6][cite_start], Amazon QuickSight [cite: 6][cite_start], Tableau [cite: 6][cite_start], AWS Athena [cite: 6][cite_start], Amazon Sagemaker [cite: 6][cite_start], Docker [cite: 3, 10][cite_start], Git [cite: 3, 10][cite_start], Datadog[cite: 5].
-* [cite_start]**Metodologias:** Metodologia Ágil [cite: 6][cite_start], Gerenciamento de Cronogramas de Projetos [cite: 5][cite_start], Fundamentos do Scrum[cite: 5].
+* **Linguagens & Ferramentas:** Python, SQL, HTML + CSS, Amazon QuickSight, Tableau, AWS Athena, Amazon Sagemaker, Docker, Git, Datadog.
+* **Metodologias:** Metodologia Ágil, Gerenciamento de Cronogramas de Projetos, Fundamentos do Scrum.
 * **Futuras Paixões:** No futuro, quero me aprofundar em Ciência de Dados, Engenharia de Dados e Full Stack. A caminhada é longa, mas a vontade de aprender é gigante!
 
 ---
 
 ### 🎓 Certificações
 
-* [cite_start]Asociate - Data Modeling [cite: 5]
-* [cite_start]HTML e CSS3 [cite: 5]
-* [cite_start]Practitioner - Generative AI [cite: 5]
-* [cite_start]Associate - Machine Learning Engeneering [cite: 5]
-* [cite_start]Practitioner - D&A Foundation [cite: 5]
+* Associate - Data Modeling
+* HTML e CSS3
+* Practitioner - Generative AI
+* Associate - Machine Learning Engineering
+* Practitioner - D&A Foundation
 
 ---
 
@@ -65,7 +65,7 @@ Minhas maiores paixões hoje são os **dados e análises**, mas estou sempre me 
 A vida é sobre novas experiências! Minha maior motivação é construir uma carreira que me permita ter uma vida mais tranquila, viajar pelo mundo e conhecer lugares e culturas que ainda não tive a oportunidade.
 
 <p align="center">
-  **Vamos construir o futuro juntos? Conecte-se comigo!**
+  <strong>Vamos construir o futuro juntos? Conecte-se comigo!</strong>
 </p>
 
 <p align="center">
