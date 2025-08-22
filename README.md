@@ -25,7 +25,7 @@ Sou uma eterna aprendiz, no último semestre do curso de **Sistemas de Informaç
 
 Minhas maiores paixões hoje são os **dados e análises**, mas estou sempre me desafiando a aprender mais.
 
-**Itaú Unibanco (Estagiária Command Center - Squad IULOAD)**
+**Itaú Unibanco (Estagiária Command Center - Squad IOP - Squad IULOAD - Governança ICC)**
 * Desenvolvi minhas habilidades em análises de dados e sistemas ágeis.
 * Atuei na migração de produto com a criação de novos containers em **Docker** e fiz atualizações e manutenções no **GitHub**.
 * Construí dashboards em **QuickSight** para automação e redução de processos manuais, e atuei na análise e reporte de análises da operação distribuída.
